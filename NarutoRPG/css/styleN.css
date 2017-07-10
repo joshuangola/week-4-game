@@ -1,0 +1,43 @@
+body {
+    background-image: url("../images/n9.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: black;
+}
+h1 {
+	font-family: 'Monoton', cursive;
+	color: black;
+	text-align: center;
+}
+h2 {
+	font-family: 'Roboto Mono', monospace;
+    color: white;	
+}
+.characterButton {
+    border-style: solid;
+    border-width: 1px;
+    border-color: green;
+}
+.characterImage {
+    width: 150px;
+    height: 150px;
+}
+.defenderButton {
+    background-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-color: green;
+    color: white;
+}
+#gameText {
+    font-family: 'Roboto Mono', monospace;
+    color: red;
+    font-size: 24px;
+}
+.possibleEnemies {
+    background-color: red;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
